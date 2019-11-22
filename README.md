@@ -3,7 +3,7 @@ VEBEK is a secure communication framework where sensed data is encoded using a s
 Coded in Visual C# .Net.
 
 <img width="663" alt="Screen Shot 2019-11-21 at 6 13 38 PM" src="https://user-images.githubusercontent.com/5762548/69392481-05789f00-0c8b-11ea-8c51-e4d0ebbbea60.png">
-<img width="595" alt="Screen Shot 2019-11-14 at 3 14 37 PM" src="https://user-images.githubusercontent.com/5762548/69392490-0d384380-0c8b-11ea-892e-4d9422f04b91.png">
+<!--img width="595" alt="Screen Shot 2019-11-14 at 3 14 37 PM" src="https://user-images.githubusercontent.com/5762548/69392490-0d384380-0c8b-11ea-892e-4d9422f04b91.png"-->
 <img width="663" alt="Screen Shot 2019-11-21 at 6 13 38 PM" src="https://user-images.githubusercontent.com/5762548/69392491-0d384380-0c8b-11ea-8966-d17d2edaaaad.png">
 <img width="590" alt="Screen Shot 2019-11-21 at 6 13 43 PM" src="https://user-images.githubusercontent.com/5762548/69392492-0d384380-0c8b-11ea-9a93-54a5994381b5.png">
 <img width="610" alt="Screen Shot 2019-11-21 at 6 13 58 PM" src="https://user-images.githubusercontent.com/5762548/69392493-0d384380-0c8b-11ea-8df0-a6fd1c3d7c0a.png">
