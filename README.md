@@ -8,8 +8,8 @@ Coded in Visual C# .Net.
 <img width="590" alt="Screen Shot 2019-11-21 at 6 13 43 PM" src="https://user-images.githubusercontent.com/5762548/69392492-0d384380-0c8b-11ea-9a93-54a5994381b5.png">
 <img width="610" alt="Screen Shot 2019-11-21 at 6 13 58 PM" src="https://user-images.githubusercontent.com/5762548/69392493-0d384380-0c8b-11ea-8df0-a6fd1c3d7c0a.png">
 <img width="621" alt="Screen Shot 2019-11-21 at 6 14 12 PM" src="https://user-images.githubusercontent.com/5762548/69392494-0d384380-0c8b-11ea-8ac3-2a73c2a7ca4a.png">
-<img width="359" alt="Screen Shot 2019-11-21 at 6 14 31 PM" src="https://user-images.githubusercontent.com/5762548/69392495-0d384380-0c8b-11ea-952d-fd89c64568d5.png">
+<!--img width="359" alt="Screen Shot 2019-11-21 at 6 14 31 PM" src="https://user-images.githubusercontent.com/5762548/69392495-0d384380-0c8b-11ea-952d-fd89c64568d5.png">
 <img width="359" alt="Screen Shot 2019-11-21 at 6 14 38 PM" src="https://user-images.githubusercontent.com/5762548/69392496-0dd0da00-0c8b-11ea-8ce7-c878de9e61e8.png">
 <img width="356" alt="Screen Shot 2019-11-21 at 6 14 44 PM" src="https://user-images.githubusercontent.com/5762548/69392497-0dd0da00-0c8b-11ea-8896-9a94a57838c2.png">
 <img width="358" alt="Screen Shot 2019-11-21 at 6 14 50 PM" src="https://user-images.githubusercontent.com/5762548/69392498-0dd0da00-0c8b-11ea-9224-d49efc1d11d3.png">
-<img width="459" alt="Screen Shot 2019-11-21 at 6 15 10 PM" src="https://user-images.githubusercontent.com/5762548/69392499-0dd0da00-0c8b-11ea-8979-3c242a35e99f.png">
+<img width="459" alt="Screen Shot 2019-11-21 at 6 15 10 PM" src="https://user-images.githubusercontent.com/5762548/69392499-0dd0da00-0c8b-11ea-8979-3c242a35e99f.png"-->
